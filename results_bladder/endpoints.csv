@@ -1,3 +1,0 @@
-endpoint,limit,n,bias,sd,z,t,se_bias,se_loa,bias_ci_lo,bias_ci_hi,loa_lo,loa_hi,loa_lo_ci_lo,loa_lo_ci_hi,loa_hi_ci_lo,loa_hi_ci_hi,pass_point,pass_strict
-primary: Absolute difference (mL),55.0,137,1.7732,21.5898,1.96,1.9776,1.8445,3.16,-1.8745,5.4209,-40.542,44.0885,-46.7911,-34.293,37.8395,50.3375,True,True
-"secondary: Percent difference, reference >= 100 mL (%)",,106,0.7654,8.9234,1.96,1.9828,0.8667,1.4859,-0.9531,2.4839,-16.7241,18.255,-19.6703,-13.7779,15.3088,21.2011,,
