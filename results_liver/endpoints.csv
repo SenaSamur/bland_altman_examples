@@ -1,0 +1,3 @@
+endpoint,limit,n,bias,sd,z,t,se_bias,se_loa,bias_ci_lo,bias_ci_hi,loa_lo,loa_hi,loa_lo_ci_lo,loa_lo_ci_hi,loa_hi_ci_lo,loa_hi_ci_hi,pass_point,pass_strict
+primary: Percent difference (%),15.0,147,-2.1286,5.5979,1.96,1.9763,0.4617,0.7908,-3.041,-1.2161,-13.1002,8.8431,-14.6632,-11.5372,7.2801,10.4061,True,True
+secondary: Absolute difference (cm),,147,-0.3123,0.8566,1.96,1.9763,0.0707,0.121,-0.4519,-0.1727,-1.9913,1.3666,-2.2304,-1.7521,1.1275,1.6058,,
